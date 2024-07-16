@@ -1,0 +1,20 @@
+{
+  "name": "iymto-do-list",
+  "version": "1.0.0",
+  "description": "CLI based to do list with TypeScript, Node.js and Inquirer",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ishwa Younus",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
